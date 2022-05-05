@@ -105,3 +105,20 @@
     </tr>
   </tbody>
 </table>
+
+## Other projects
+* __<a href="https://github.com/KarnaukhovKirill/job4j_cars"><b>passportServices</b></a>__
+
+    *Взаимодействие двух сервисов с использованием RestTemplate*
+    
+* __<a href="https://github.com/KarnaukhovKirill/weather_reactive"><b>weatherReactive</b></a>__
+
+    *Сервис с Rest Api. Отдаёт информацию о погоде с испльзование webFlux*
+    
+* __<a href="https://github.com/KarnaukhovKirill/job4j_car_accident"><b>Учебный проект "Автонарушители"</b></a>__
+
+    *Web приложение. jdbc, postgres, servlets, jsp*
+    
+* __<a href="https://github.com/KarnaukhovKirill/job4j_cinema"><b>Cinema</b></a>__
+
+    *Web приложение для бронирования мест онлайн*    
