@@ -107,7 +107,7 @@
 </table>
 
 #### Другие проекты
-* __<a href="https://github.com/KarnaukhovKirill/job4j_cars"><b>passportServices</b></a>__
+* __<a href="https://github.com/KarnaukhovKirill/passportServices"><b>passportServices</b></a>__
 
     *Взаимодействие двух сервисов с использованием RestTemplate*
     
