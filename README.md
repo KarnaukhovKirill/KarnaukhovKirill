@@ -1,10 +1,15 @@
-## Привет! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+## Привет! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Добро пожаловать в мой репозиторий! 
+
+<img src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="Coder GIF" width="500">
+
+---
 
 -  Меня зовт Кирилл. Я из России, живу в городе Архангельске
 
--  Я начинающий Java разработчик и в данный момент активно работу с интересными проектами
+-  Я начинающий Java разработчик и в данный момент активно ищу работу с интересными проектами
 
 -  1 год стажировался [здесь](https://job4j.ru/)
+
 -  Связаться со мной для дополнительной информаци: [![Gmail Badge](https://img.shields.io/badge/-karnaukhov.kirill23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karnaukhov.kirill23@gmail.com)](mailto:karnaukhov.kirill23@gmail.com)[![alt text](https://badges.aleen42.com/src/telegram.svg)](https://t.me/Tur_Boyama)
 <!--   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -17,7 +22,6 @@
 
 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## 🛠 Что использую в работе
 ### Каждый день:
