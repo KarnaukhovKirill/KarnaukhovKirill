@@ -58,7 +58,7 @@
 </details>
 
 ---
-## Main projects
+### Основные проекты
 <table>
   <thead align="center">
     <tr border: none;>
@@ -106,7 +106,7 @@
   </tbody>
 </table>
 
-## Other projects
+#### Другие проекты
 * __<a href="https://github.com/KarnaukhovKirill/job4j_cars"><b>passportServices</b></a>__
 
     *Взаимодействие двух сервисов с использованием RestTemplate*
