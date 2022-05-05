@@ -122,3 +122,5 @@
 * __<a href="https://github.com/KarnaukhovKirill/job4j_cinema"><b>Cinema</b></a>__
 
     *Web приложение для бронирования мест онлайн*    
+
+![github stats](https://github-readme-stats.vercel.app/api?username=KarnaukhovKirill&show_icons=true)
