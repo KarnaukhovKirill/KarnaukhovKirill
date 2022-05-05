@@ -58,7 +58,7 @@
 </details>
 
 ---
-
+## Main projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -76,7 +76,7 @@
     <tr>
       <td><a href="https://github.com/KarnaukhovKirill/job4j_url_shortcut"><b>url_shortcut</b></a></td>
       <td>Сервис для сокращения url</td>
-      <td>Spring, Postgres, JWT, Docker, Maven, Github Actions</td>
+      <td>Spring, Postgres, JWT, Docker, Maven, Github Actions, Postman</td>
     </tr>
     <tr>
       <td><a href="https://github.com/KarnaukhovKirill/job4j_forum"><b>Spring forum</b></a></td>
@@ -91,12 +91,17 @@
     <tr>
       <td><a href="https://github.com/KarnaukhovKirill/job4j_chat"><b>Chat</b></a></td>
       <td>Реализация Rest API для функционирования чата</td>
-      <td>Spring, Postgres, JWT, Docker, Kubernates, Maven, Github Actions</td>
+      <td>Spring, Postgres, JWT, Docker, Kubernates, Maven, Github Actions, Postman, Linux</td>
     </tr>
     <tr>
       <td><a href="https://github.com/KarnaukhovKirill/job4j_tracker"><b>Tracker</b></a></td>
       <td>Проект для ведения учёта различных domain моделей</td>
       <td>Spring, Hibernate, Postgres, Junit, PostgresSQL, H2Database, Mockito, liquibase, Maven, Docker, Travis CI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/KarnaukhovKirill/discovery"><b>Service Discovery</b></a></td>
+      <td>Практика работы с Spring Cloud Service Discovery</td>
+      <td>Spring, Maven, Github Actions, cUrl, Postman</td>
     </tr>
   </tbody>
 </table>
