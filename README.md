@@ -4,13 +4,13 @@
 
 ---
 
--  Меня зовт Кирилл. Я из России, живу в городе Архангельске
+-  :boy: Меня зовт Кирилл. Я из России, живу в городе Архангельске
 
--  Я начинающий Java разработчик и в данный момент активно ищу работу с интересными проектами
+-  :mag: Я начинающий Java разработчик и в данный момент активно ищу работу с интересными проектами
 
--  1 год стажировался [здесь](https://job4j.ru/)
+-  :black_nib: 1 год стажировался [здесь](https://job4j.ru/)
 
--  Связаться со мной для дополнительной информаци: [![Gmail Badge](https://img.shields.io/badge/-karnaukhov.kirill23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karnaukhov.kirill23@gmail.com)](mailto:karnaukhov.kirill23@gmail.com)[![alt text](https://badges.aleen42.com/src/telegram.svg)](https://t.me/Tur_Boyama)
+-  :envelope: Связаться со мной для дополнительной информаци: [![Gmail Badge](https://img.shields.io/badge/-karnaukhov.kirill23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karnaukhov.kirill23@gmail.com)](mailto:karnaukhov.kirill23@gmail.com)[![alt text](https://badges.aleen42.com/src/telegram.svg)](https://t.me/Tur_Boyama)
 <!--   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/Tur_Boyama">
