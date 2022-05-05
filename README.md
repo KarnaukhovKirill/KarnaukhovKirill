@@ -1,20 +1,23 @@
-### Привет! 👋 Меня зовут Кирилл, Java разработчик! 
+## Привет! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+-  Меня зовт Кирилл. Я из России, живу в городе Архангельске
 
-<h1>
-<p>
-<a href="https://github.com/KarnaukhovKirill">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+-  Я начинающий Java разработчик и в данный момент активно работу с интересными проектами
+
+-  1 год стажировался [здесь](https://job4j.ru/)
+-  Связаться со мной для дополнительной информаци: [![Gmail Badge](https://img.shields.io/badge/-karnaukhov.kirill23@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karnaukhov.kirill23@gmail.com)](mailto:karnaukhov.kirill23@gmail.com)
+<!--   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/Tur_Boyama">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
 </a>
 <a href="https://mail.google.com/">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-</p>
-</h1>
+</a> -->
+
+
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## 🛠 Что использую в работе
 ### Каждый день:
