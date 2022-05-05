@@ -56,6 +56,24 @@
   
 </details>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>:bulb: Проекты</b></td>
+      <td><b>:scroll: Описание</b></td>
+      <td><b>:key: Технологии</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/KarnaukhovKirill/todo"><b>TODO</b></a></td>
+      <td>Web-приложение для составления задач.</td>
+      <td>Hibernate, Postgres, HTML5, JS, CSS, jQuery, Maven</td>
+    </tr>
+	  <tr>
+  </tbody>
+</table>
+
 <!-- ## 🛠 Что использую в работе
 ### Каждый день:
 
