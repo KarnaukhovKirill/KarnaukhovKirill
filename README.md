@@ -1,5 +1,8 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Кирилл, Java разработчик! 
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+<h1>
 <p>
 <a href="https://github.com/KarnaukhovKirill">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -11,6 +14,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 </p>
+</h1>
 
 ## 🛠 Что использую в работе
 ### Каждый день:
