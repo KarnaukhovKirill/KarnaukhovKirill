@@ -21,3 +21,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
