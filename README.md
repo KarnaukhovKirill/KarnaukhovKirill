@@ -1,12 +1,11 @@
 ## Привет! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Добро пожаловать в мой репозиторий! 
 
-<img src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="Coder GIF" width="500">
-
----
+<!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="500">
+ -->
 
 -  :boy: Меня зовут Кирилл. Я из России, живу в городе Архангельске
 
--  :mag: Я начинающий Java разработчик и в данный момент активно ищу работу с интересными проектами
+-  :mag: Я Java разработчик и в данный момент активно ищу работу с интересными проектами
 
 -  :black_nib: 1 год стажировался [здесь](https://job4j.ru/)
 
