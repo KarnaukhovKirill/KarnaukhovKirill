@@ -122,6 +122,4 @@
 
     *Web приложение для бронирования мест онлайн*    
 
-![github stats](https://github-readme-stats.vercel.app/api?username=KarnaukhovKirill&show_icons=true&count_private=true)
-[![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarnaukhovKirill&count_private=true)](https://github.com/KarnaukhovKirill/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KarnaukhovKirill)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KarnaukhovKirill)](https://git.io/streak-stats)
